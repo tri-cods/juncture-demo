@@ -14,6 +14,10 @@ repo: juncture-demo
 # Defines options shown in the header navigation menu
 ######################################################
 nav:
+- label: First Essay
+  icon: fas fa-file-code
+  action: load-page
+  path: /first_essay
 - label: Contact the Juncture team
   icon: fas fa-envelope
   action: contact-us
